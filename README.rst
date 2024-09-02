@@ -321,7 +321,7 @@ nothing.
    }
    int main( int argc, char **argv )
    {
-       Foo foo();
+       Foo foo;
        return 0;
    }
 
